@@ -1,7 +1,6 @@
 # Heart_Disease_Prediction
 
 ## Loading the dataset
-* heart_disease = pd.read_csv('/heart_disease.csv')
 * This line of code loads a CSV file named 'heart_disease.csv' into a Pandas DataFrame named heart_disease.
 
 Exploring the dataset
@@ -25,4 +24,8 @@ The subsequent lines of code perform various exploratory tasks:
   * Generates basic statistics (like count, mean, min, max, quartiles) for numeric columns in the dataset. The .T transposes the output for better readability.
 
 The loaded dataset, giving insights into its size, structure, column names, data types, summary statistics, and the presence of missing values.
+
+
+## Data Visualization
+1. Importing Libraries
 
