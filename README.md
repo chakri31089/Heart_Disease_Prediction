@@ -40,6 +40,6 @@ The loaded dataset gives insights into its size, structure, column names, data t
 ## Feature Engineering
 1. Feature Selection Using Correlation
 
-### Get Correlation of Features:
+Get Correlation of Features:
 * Calculates the correlation matrix for all features in the dataset and stores the index (column names) of the top correlated features.
 
